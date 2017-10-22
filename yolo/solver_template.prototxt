@@ -1,0 +1,14 @@
+average_loss: 25
+base_lr: 0
+display: 50
+gamma: 0.1
+iter_size: 1
+lr_policy: "step"
+max_iter: 1000000
+momentum: 0.9
+stepsize: 1000
+test_net: "./multi-label/vgg16_street_en_ratio_single/valnet.prototxt"
+train_net: "./multi-label/vgg16_street_en_ratio_single/trainnet.prototxt"
+test_interval: 20000000
+test_iter: 100
+weight_decay: 0.0005

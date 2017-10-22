@@ -1,1 +1,1 @@
-# YOLOv2-to-Caffemodel
+# Caffe-YOLOv2
